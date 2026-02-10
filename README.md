@@ -49,9 +49,9 @@ I enjoy learning new technologies and building small projects to improve my skil
 
 ## 📫 Contact Me
 
-- GitHub: https://github.com/your-username
-- Email: your-email@gmail.com
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/vijaykumar352
+- Email: vijaykumarjadi9@gmail.com
+- LinkedIn: https://linkedin.com/in/jadi-vijaykumar
 
 ---
 
